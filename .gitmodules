@@ -1,0 +1,3 @@
+[submodule "hoehnp-layout"]
+	path = hoehnp-layout
+	url = https://github.com/hoehnp/navit-layout
