@@ -1,3 +1,6 @@
 [submodule "hoehnp-layout"]
 	path = hoehnp-layout
 	url = https://github.com/hoehnp/navit-layout
+[submodule "pgrandin-nuc-layout"]
+	path = pgrandin-nuc-layout
+	url = https://github.com/pgrandin/navit-nuc-layout
