@@ -4,3 +4,6 @@
 [submodule "pgrandin-nuc-layout"]
 	path = pgrandin-nuc-layout
 	url = https://github.com/pgrandin/navit-nuc-layout
+[submodule "zintor-jolla-layout"]
+	path = zintor-jolla-layout
+	url = https://github.com/zintor/navit-jolla-layout
