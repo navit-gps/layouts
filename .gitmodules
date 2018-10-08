@@ -7,3 +7,6 @@
 [submodule "zintor-jolla-layout"]
 	path = zintor-jolla-layout
 	url = https://github.com/zintor/navit-jolla-layout
+[submodule "pohlinkzei-pi-mfd-layout"]
+	path = pohlinkzei-pi-mfd-layout
+	url = https://github.com/pohlinkzei/Pi_MFD_Layout
